@@ -1,0 +1,30 @@
+{
+  "name": "Diamond Kingdom #90",
+  "symbol": "DK",
+  "description": "222 Diamonds that act as a pass into KingdomDAO",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "",
+  "edition": 90,
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Noble"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "E32zKJPxjxS5rrjzpxGFGQ7jfLeTQN4s2J6QuyJTsurX",
+        "share": 100
+      },
+    ]
+  }
+}
