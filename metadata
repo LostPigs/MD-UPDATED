@@ -3,7 +3,7 @@
   "symbol": "DK",
   "description": "222 Diamonds that act as a pass into KingdomDAO",
   "seller_fee_basis_points": 1000,
-  "image": "https://raw.githubusercontent.com/LostPigs/MD-UPDATED/main/Lightblue.jpg",
+  "image": "https://raw.githubusercontent.com/LostPigs/MD-UPDATED/main/Lightblue.png",
   "external_url": "",
   "edition": 90,
   "attributes": [
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/LostPigs/MD-UPDATED/main/Lightblue.jpg",
+        "uri": "https://raw.githubusercontent.com/LostPigs/MD-UPDATED/main/Lightblue.png",
         "type": "image/png"
       }
     ],
